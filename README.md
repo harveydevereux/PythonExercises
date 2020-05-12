@@ -1,5 +1,7 @@
 # PythonExercises
 ## Introductory Exercises for Python and Data Science
 
-### To download the Youtube data set follow the [link](https://drive.google.com/open?id=1y8_DmLZtGTdNwUygW5Z7XlO19mSe48HL) to google drive
+[Basics](https://github.com/harveydevereux/PythonExercises/blob/master/Basic%20Syntax.ipynb)
+
+[Basic Data Science (Incomplete)](https://github.com/harveydevereux/PythonExercises/blob/master/ChocolateDataScience.ipynb)
 
